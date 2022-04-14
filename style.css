@@ -298,7 +298,7 @@
   }
   .carousel-block{
     flex-flow: column;
-    /* flex-direction: column-reverse; */
+    flex-direction: column-reverse; 
     align-items: center;
   }
   /* .user-1{
